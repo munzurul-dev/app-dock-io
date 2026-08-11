@@ -1,6 +1,6 @@
 import { FaGithub } from "react-icons/fa6";
 import Logo from "../Logo/Logo";
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
 import { useState } from "react";
 import { IoClose, IoMenu } from "react-icons/io5";
 
@@ -14,7 +14,9 @@ const Navbar = () => {
   return (
     <div className=" sticky top-0 z-50  flex items-center justify-between bg-white navbar shadow-sm p-2">
       <div>
-        <Logo />
+        <Link to="/">
+          <Logo />
+        </Link>
       </div>
 
       <ul className="md:flex hidden gap-6 font-bold">
@@ -36,11 +38,12 @@ const Navbar = () => {
           </NavLink>
         </li>
       </ul>
-
-      <button className="md:flex hidden items-center gap-2 btn bg-linear-to-r from-indigo-500 to-violet-600 text-white">
-        <FaGithub className="h-5 w-5" />
-        <span className="font-bold">Contribute</span>
-      </button>
+      <a href="https://github.com/munzurul-dev" target="_blank">
+        <button className="md:flex hidden items-center gap-2 btn bg-linear-to-r from-indigo-500 to-violet-600 text-white">
+          <FaGithub className="h-5 w-5" />
+          <span className="font-bold">Contribute</span>
+        </button>{" "}
+      </a>
       <span className="md:hidden" onClick={() => setOpen(!open)}>
         {open ? (
           <IoClose className="md:hidden bg-blue-100 rounded-2xl w-10 h-10 p-2 cursor-pointer"></IoClose>
@@ -72,10 +75,12 @@ const Navbar = () => {
           </li>
         </ul>
 
-        <button className=" mt-2 btn bg-linear-to-r from-indigo-500 to-violet-600 text-white">
-          <FaGithub className="h-5 w-5" />
-          <span className="font-bold">Contribute</span>
-        </button>
+        <a href="https://github.com/munzurul-dev" target="_blank">
+          <button className=" mt-2 btn bg-linear-to-r from-indigo-500 to-violet-600 text-white">
+            <FaGithub className="h-5 w-5" />
+            <span className="font-bold">Contribute</span>
+          </button>
+        </a>
       </div>
     </div>
   );

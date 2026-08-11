@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://img.icons8.com/color/96/spotify--v1.png",
+    "title": "Spotify Music & Podcasts",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Spotify is a powerful music and audio streaming platform designed for people who love discovering and listening to music. It gives users access to millions of songs, albums, artists, podcasts, and carefully curated playlists from around the world. Whether you want to listen to your favorite artist or discover something completely new, Spotify provides a personalized experience based on your listening habits.\n\nOne of Spotify's biggest strengths is its recommendation system. Users can explore personalized playlists, daily mixes, new releases, popular charts, and music based on different moods and activities. You can also create your own playlists, save favorite songs, follow artists, and organize your personal music library. The platform supports different types of audio content, making it useful not only for music lovers but also for people who enjoy podcasts and other spoken content.\n\nSpotify is designed to provide a smooth experience across different devices and platforms. Users can continue listening to their favorite content on computers, smartphones, tablets, and other supported devices. With its simple interface, personalized discovery features, and massive content library, Spotify has become one of the most popular platforms for digital audio entertainment.",
+    "size": 85,
+    "reviews": 18450,
+    "ratingAvg": 4.6,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 1850 },
+      { "name": "4 star", "count": 5420 },
+      { "name": "5 star", "count": 9920 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/notion--v1.png",
+    "title": "Notion — Notes & Tasks",
+    "companyName": "Notion Labs Inc.",
+    "id": 2,
+    "description": "Notion is an all-in-one workspace created to help individuals and teams organize information, projects, notes, documents, and ideas in one flexible environment. Instead of using separate applications for writing notes, managing tasks, creating databases, and planning projects, users can bring many of these activities together inside a single workspace. Its flexible structure allows people to build their workspace according to their own needs.\n\nUsers can create pages, documents, task boards, tables, calendars, databases, and project management systems using customizable blocks. Notion is useful for many different types of users, including students, developers, designers, content creators, entrepreneurs, and professional teams. People can create study planners, personal journals, company documentation, project trackers, meeting notes, and knowledge bases while keeping everything organized in one place.\n\nCollaboration is another important part of the platform. Teams can work together on shared pages, leave comments, update documents, and organize projects without constantly switching between different tools. Its clean interface and highly customizable system make it suitable for both simple personal organization and complex professional workflows. Notion provides a flexible environment where users can create a workspace that matches the way they prefer to work.",
+    "size": 72,
+    "reviews": 12680,
+    "ratingAvg": 4.7,
+    "downloads": "850K",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 3280 },
+      { "name": "5 star", "count": 7890 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/slack-new.png",
+    "title": "Slack — Team Communication",
+    "companyName": "Slack Technologies",
+    "id": 3,
+    "description": "Slack is a modern communication and collaboration platform designed to help teams communicate more effectively. It provides organized spaces called channels where teams can discuss specific projects, departments, topics, or activities. Instead of relying entirely on long email conversations, team members can communicate through messages, share files, and keep project-related discussions organized in dedicated spaces.\n\nThe platform provides features such as direct messaging, group conversations, file sharing, notifications, search, and integrations with other productivity services. Teams can connect different tools to their workspace and receive important updates directly inside relevant channels. This makes it easier for developers, designers, managers, marketers, and other professionals to stay informed without constantly switching between different applications.\n\nSlack can be especially useful for remote and distributed teams that need a reliable way to stay connected throughout the day. Conversations can be organized by topic, making it easier to find previous discussions and important information. With its flexible communication system, integrations, searchable history, and team-focused features, Slack provides a centralized environment for workplace communication and collaboration.",
+    "size": 94,
+    "reviews": 9750,
+    "ratingAvg": 4.5,
+    "downloads": "720K",
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1120 },
+      { "name": "4 star", "count": 2960 },
+      { "name": "5 star", "count": 4940 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/figma--v1.png",
+    "title": "Figma — Design & Prototype",
+    "companyName": "Figma Inc.",
+    "id": 4,
+    "description": "Figma is a collaborative design and prototyping platform built for creating modern digital interfaces and experiences. Designers can use it to create websites, mobile applications, dashboards, design systems, wireframes, and interactive prototypes. Because the platform is designed around collaborative workflows, multiple people can work on the same design project and share feedback throughout the design process.\n\nFigma provides a wide range of design capabilities, including reusable components, vector editing, typography tools, layouts, prototyping, and design system management. Designers can create interactive prototypes that demonstrate how different screens will behave before development begins. Teams can also create shared libraries and reusable components, which helps maintain consistency across large projects and reduces repetitive design work.\n\nAnother major advantage of Figma is its collaboration-focused workflow. Designers, developers, product managers, and clients can review projects and provide feedback in the same environment. This can make communication between design and development teams much easier because everyone can work from the same source of truth. Its combination of powerful design tools and real-time collaboration makes Figma a valuable platform for modern product development.",
+    "size": 68,
+    "reviews": 15240,
+    "ratingAvg": 4.8,
+    "downloads": "640K",
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 3140 },
+      { "name": "5 star", "count": 11020 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/visual-studio-code-2019.png",
+    "title": "Visual Studio Code — Code Editor",
+    "companyName": "Microsoft",
+    "id": 5,
+    "description": "Visual Studio Code is a lightweight but powerful source code editor created for modern software development. It supports a wide range of programming languages and provides developers with tools for writing, editing, debugging, and managing code. Its clean interface makes it suitable for beginners, while its extensive customization and extension ecosystem makes it powerful enough for experienced developers.\n\nThe editor includes features such as intelligent code completion, syntax highlighting, debugging, integrated Git support, terminal access, search tools, and customizable workspaces. Developers can install extensions to add support for additional programming languages, frameworks, themes, formatters, linters, and development tools. This flexibility allows users to configure the editor according to their specific technology stack and personal workflow.\n\nVisual Studio Code is widely used for web development, application development, scripting, data-related work, and many other programming tasks. Developers can work with technologies such as JavaScript, TypeScript, Python, Java, C++, HTML, CSS, React, and many more. Its combination of speed, flexibility, extensions, and development features makes it a popular choice for developers who want a powerful yet relatively lightweight coding environment.",
+    "size": 118,
+    "reviews": 23150,
+    "ratingAvg": 4.9,
+    "downloads": "2.4M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 610 },
+      { "name": "4 star", "count": 3560 },
+      { "name": "5 star", "count": 18560 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/telegram-app--v1.png",
+    "title": "Telegram Messenger",
+    "companyName": "Telegram FZ-LLC",
+    "id": 6,
+    "description": "Telegram is a messaging platform designed for fast communication, group communities, channels, and file sharing. Users can communicate through individual conversations, group chats, voice calls, and video calls. The platform also supports large communities and public channels where users can follow news, educational content, entertainment, technology updates, and many other types of information.\n\nTelegram provides a wide range of features for personal and professional communication. Users can share photos, videos, documents, and other files while keeping conversations synchronized across supported devices. Groups can support large communities, while channels provide a way for creators and organizations to publish content to their audiences. Bots and integrations can also extend the functionality of the platform for different use cases.\n\nOne of Telegram's notable characteristics is its cloud-based approach, which allows users to access their conversations and shared content from multiple devices. Its combination of messaging, communities, channels, file sharing, and customization features makes it useful for both casual communication and large online communities. The platform continues to be used by individuals, creators, organizations, and communities around the world.",
+    "size": 76,
+    "reviews": 19840,
+    "ratingAvg": 4.6,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 460 },
+      { "name": "2 star", "count": 690 },
+      { "name": "3 star", "count": 1710 },
+      { "name": "4 star", "count": 5420 },
+      { "name": "5 star", "count": 11560 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/canva.png",
+    "title": "Canva — Design & Create",
+    "companyName": "Canva Pty Ltd",
+    "id": 7,
+    "description": "Canva is a visual design platform that makes it easier for people to create professional-looking digital content without requiring advanced graphic design knowledge. Users can create social media posts, presentations, posters, videos, documents, thumbnails, advertisements, and many other types of visual content. Its template-based workflow allows users to start with ready-made designs and customize them according to their own requirements.\n\nThe platform provides tools for editing images, adding text, creating layouts, applying effects, and combining different visual elements. Users can also work with templates, graphics, illustrations, icons, photographs, and other design resources. This makes Canva useful for students, content creators, marketers, small businesses, educators, social media managers, and professionals who regularly need to create visual materials.\n\nCanva also makes collaboration easier by allowing teams and individuals to work on shared designs and organize their creative projects. Users can create consistent branding materials and reuse design elements across different projects. With its simple interface, large collection of templates, and wide range of creative tools, Canva provides an accessible way for users to produce attractive visual content quickly and efficiently.",
+    "size": 91,
+    "reviews": 16420,
+    "ratingAvg": 4.7,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 3840 },
+      { "name": "5 star", "count": 10960 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/zoom.png",
+    "title": "Zoom Workplace",
+    "companyName": "Zoom Communications",
+    "id": 8,
+    "description": "Zoom is a video communication platform that allows individuals, teams, schools, organizations, and businesses to communicate through online meetings and virtual events. Users can join video meetings, participate in conversations, share their screens, send messages through meeting chat, and collaborate with other participants from different locations. Its straightforward interface makes it relatively easy for users to join and organize virtual meetings.\n\nThe platform can be used for many different situations, including remote work, online classes, interviews, business meetings, team discussions, webinars, and virtual events. Meeting hosts can manage participants and use features such as screen sharing and other collaboration tools to make online sessions more interactive. Participants can join meetings from supported computers, smartphones, tablets, and other devices.\n\nZoom has become an important communication tool for organizations and individuals who need to connect without being physically present in the same location. Its combination of video communication, meeting tools, screen sharing, chat, and virtual event capabilities provides a flexible environment for remote collaboration. Whether used for education, business, teamwork, or personal communication, Zoom offers a convenient way to connect with people online.",
+    "size": 102,
+    "reviews": 13780,
+    "ratingAvg": 4.4,
+    "downloads": "950K",
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 810 },
+      { "name": "3 star", "count": 1680 },
+      { "name": "4 star", "count": 3890 },
+      { "name": "5 star", "count": 6780 }
+    ]
+  }
+]
