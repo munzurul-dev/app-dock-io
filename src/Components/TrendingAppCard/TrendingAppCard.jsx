@@ -11,7 +11,7 @@ const TrendingAppCard = ({ tAppData }) => {
         src={image}
         alt="image"
       />
-      <h2 className="text-black text-md mt-2 mb-2">{title}</h2>
+      <h2 className="text-black  text-sm font-bold mt-2 mb-2">{title}</h2>
       <div className="flex justify-between items-center">
         <span className="flex items-center  text-green-400 bg-gray-100 p-1 rounded-md">
           <MdOutlineFileDownload />

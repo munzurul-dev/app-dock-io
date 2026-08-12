@@ -16,8 +16,8 @@ const TrendingApps = ({trendingAppsData}) => {
           trendingAppsData.map(tAppData => <TrendingAppCard tAppData={tAppData} key={tAppData.id}></TrendingAppCard>)
         }
       </div>
-      <div className="flex justify-center mt-2 md:-mt-2">
-        <button className="text-white btn bg-indigo-600 py-2  px-5 ">Show All</button>
+      <div className="flex justify-center mt-2 md:-mt-2 ">
+        <button onClick={() => (window.location.href = "/apps")} className="text-white btn bg-indigo-600 border-0 py-2 mb-3  px-5">Show All</button>
       </div>
     </div>
   );

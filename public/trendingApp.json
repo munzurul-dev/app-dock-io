@@ -73,7 +73,7 @@
   },
   {
     "image": "https://img.icons8.com/color/96/visual-studio-code-2019.png",
-    "title": "Visual Studio Code — Code Editor",
+    "title": "Visual Studio — Code Editor",
     "companyName": "Microsoft",
     "id": 5,
     "description": "Visual Studio Code is a lightweight but powerful source code editor created for modern software development. It supports a wide range of programming languages and provides developers with tools for writing, editing, debugging, and managing code. Its clean interface makes it suitable for beginners, while its extensive customization and extension ecosystem makes it powerful enough for experienced developers.\n\nThe editor includes features such as intelligent code completion, syntax highlighting, debugging, integrated Git support, terminal access, search tools, and customizable workspaces. Developers can install extensions to add support for additional programming languages, frameworks, themes, formatters, linters, and development tools. This flexibility allows users to configure the editor according to their specific technology stack and personal workflow.\n\nVisual Studio Code is widely used for web development, application development, scripting, data-related work, and many other programming tasks. Developers can work with technologies such as JavaScript, TypeScript, Python, Java, C++, HTML, CSS, React, and many more. Its combination of speed, flexibility, extensions, and development features makes it a popular choice for developers who want a powerful yet relatively lightweight coding environment.",

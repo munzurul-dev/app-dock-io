@@ -39,7 +39,7 @@ const Navbar = () => {
         </li>
       </ul>
       <a href="https://github.com/munzurul-dev" target="_blank">
-        <button className="md:flex hidden items-center gap-2 btn bg-linear-to-r from-indigo-500 to-violet-600 text-white">
+        <button className="md:flex hidden items-center gap-2 btn border-0 bg-linear-to-r from-indigo-500 to-violet-600 text-white">
           <FaGithub className="h-5 w-5" />
           <span className="font-bold">Contribute</span>
         </button>{" "}
@@ -76,7 +76,7 @@ const Navbar = () => {
         </ul>
 
         <a href="https://github.com/munzurul-dev" target="_blank">
-          <button className=" mt-2 btn bg-linear-to-r from-indigo-500 to-violet-600 text-white">
+          <button className=" mt-2 btn border-0 bg-linear-to-r from-indigo-500 to-violet-600 text-white">
             <FaGithub className="h-5 w-5" />
             <span className="font-bold">Contribute</span>
           </button>
