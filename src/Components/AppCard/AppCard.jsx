@@ -1,8 +1,8 @@
 import { FaStarHalfAlt } from "react-icons/fa";
 import { MdOutlineFileDownload } from "react-icons/md";
 
-const TrendingAppCard = ({ tAppData }) => {
-  const { title, image, downloads, ratingAvg } = tAppData;
+const AppCard = ({appData}) => {
+const { title, image, downloads, ratingAvg } = appData;
   return (
     <div className=" w-full bg-white rounded-2xl p-4">
       <img
@@ -25,4 +25,4 @@ const TrendingAppCard = ({ tAppData }) => {
   );
 };
 
-export default TrendingAppCard;
+export default AppCard;

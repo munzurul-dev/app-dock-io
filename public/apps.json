@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://img.icons8.com/color/96/spotify--v1.png",
+    "title": "Spotify Music & Podcasts",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Spotify is a powerful music and audio streaming platform designed for people who love discovering and listening to music. It gives users access to millions of songs, albums, artists, podcasts, and carefully curated playlists from around the world. Whether you want to listen to your favorite artist or discover something completely new, Spotify provides a personalized experience based on your listening habits.\n\nOne of Spotify's biggest strengths is its recommendation system. Users can explore personalized playlists, daily mixes, new releases, popular charts, and music based on different moods and activities. You can also create your own playlists, save favorite songs, follow artists, and organize your personal music library. The platform supports different types of audio content, making it useful not only for music lovers but also for people who enjoy podcasts and other spoken content.\n\nSpotify is designed to provide a smooth experience across different devices and platforms. Users can continue listening to their favorite content on computers, smartphones, tablets, and other supported devices. With its simple interface, personalized discovery features, and massive content library, Spotify has become one of the most popular platforms for digital audio entertainment.",
+    "size": 85,
+    "reviews": 18450,
+    "ratingAvg": 4.6,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 1850 },
+      { "name": "4 star", "count": 5420 },
+      { "name": "5 star", "count": 9920 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/notion--v1.png",
+    "title": "Notion — Notes & Tasks",
+    "companyName": "Notion Labs Inc.",
+    "id": 2,
+    "description": "Notion is an all-in-one workspace created to help individuals and teams organize information, projects, notes, documents, and ideas in one flexible environment. Instead of using separate applications for writing notes, managing tasks, creating databases, and planning projects, users can bring many of these activities together inside a single workspace. Its flexible structure allows people to build their workspace according to their own needs.\n\nUsers can create pages, documents, task boards, tables, calendars, databases, and project management systems using customizable blocks. Notion is useful for many different types of users, including students, developers, designers, content creators, entrepreneurs, and professional teams. People can create study planners, personal journals, company documentation, project trackers, meeting notes, and knowledge bases while keeping everything organized in one place.\n\nCollaboration is another important part of the platform. Teams can work together on shared pages, leave comments, update documents, and organize projects without constantly switching between different tools. Its clean interface and highly customizable system make it suitable for both simple personal organization and complex professional workflows. Notion provides a flexible environment where users can create a workspace that matches the way they prefer to work.",
+    "size": 72,
+    "reviews": 12680,
+    "ratingAvg": 4.7,
+    "downloads": "850K",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 3280 },
+      { "name": "5 star", "count": 7890 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/slack-new.png",
+    "title": "Slack — Team Communication",
+    "companyName": "Slack Technologies",
+    "id": 3,
+    "description": "Slack is a modern communication and collaboration platform designed to help teams communicate more effectively. It provides organized spaces called channels where teams can discuss specific projects, departments, topics, or activities. Instead of relying entirely on long email conversations, team members can communicate through messages, share files, and keep project-related discussions organized in dedicated spaces.\n\nThe platform provides features such as direct messaging, group conversations, file sharing, notifications, search, and integrations with other productivity services. Teams can connect different tools to their workspace and receive important updates directly inside relevant channels. This makes it easier for developers, designers, managers, marketers, and other professionals to stay informed without constantly switching between different applications.\n\nSlack can be especially useful for remote and distributed teams that need a reliable way to stay connected throughout the day. Conversations can be organized by topic, making it easier to find previous discussions and important information. With its flexible communication system, integrations, searchable history, and team-focused features, Slack provides a centralized environment for workplace communication and collaboration.",
+    "size": 94,
+    "reviews": 9750,
+    "ratingAvg": 4.5,
+    "downloads": "720K",
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1120 },
+      { "name": "4 star", "count": 2960 },
+      { "name": "5 star", "count": 4940 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/figma--v1.png",
+    "title": "Figma — Design & Prototype",
+    "companyName": "Figma Inc.",
+    "id": 4,
+    "description": "Figma is a collaborative design and prototyping platform built for creating modern digital interfaces and experiences. Designers can use it to create websites, mobile applications, dashboards, design systems, wireframes, and interactive prototypes. Because the platform is designed around collaborative workflows, multiple people can work on the same design project and share feedback throughout the design process.\n\nFigma provides a wide range of design capabilities, including reusable components, vector editing, typography tools, layouts, prototyping, and design system management. Designers can create interactive prototypes that demonstrate how different screens will behave before development begins. Teams can also create shared libraries and reusable components, which helps maintain consistency across large projects and reduces repetitive design work.\n\nAnother major advantage of Figma is its collaboration-focused workflow. Designers, developers, product managers, and clients can review projects and provide feedback in the same environment. This can make communication between design and development teams much easier because everyone can work from the same source of truth. Its combination of powerful design tools and real-time collaboration makes Figma a valuable platform for modern product development.",
+    "size": 68,
+    "reviews": 15240,
+    "ratingAvg": 4.8,
+    "downloads": "640K",
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 3140 },
+      { "name": "5 star", "count": 11020 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/visual-studio-code-2019.png",
+    "title": "Visual Studio — Code Editor",
+    "companyName": "Microsoft",
+    "id": 5,
+    "description": "Visual Studio Code is a lightweight but powerful source code editor created for modern software development. It supports a wide range of programming languages and provides developers with tools for writing, editing, debugging, and managing code. Its clean interface makes it suitable for beginners, while its extensive customization and extension ecosystem makes it powerful enough for experienced developers.\n\nThe editor includes features such as intelligent code completion, syntax highlighting, debugging, integrated Git support, terminal access, search tools, and customizable workspaces. Developers can install extensions to add support for additional programming languages, frameworks, themes, formatters, linters, and development tools. This flexibility allows users to configure the editor according to their specific technology stack and personal workflow.\n\nVisual Studio Code is widely used for web development, application development, scripting, data-related work, and many other programming tasks. Developers can work with technologies such as JavaScript, TypeScript, Python, Java, C++, HTML, CSS, React, and many more. Its combination of speed, flexibility, extensions, and development features makes it a popular choice for developers who want a powerful yet relatively lightweight coding environment.",
+    "size": 118,
+    "reviews": 23150,
+    "ratingAvg": 4.9,
+    "downloads": "2.4M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 610 },
+      { "name": "4 star", "count": 3560 },
+      { "name": "5 star", "count": 18560 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/telegram-app--v1.png",
+    "title": "Telegram Messenger",
+    "companyName": "Telegram FZ-LLC",
+    "id": 6,
+    "description": "Telegram is a messaging platform designed for fast communication, group communities, channels, and file sharing. Users can communicate through individual conversations, group chats, voice calls, and video calls. The platform also supports large communities and public channels where users can follow news, educational content, entertainment, technology updates, and many other types of information.\n\nTelegram provides a wide range of features for personal and professional communication. Users can share photos, videos, documents, and other files while keeping conversations synchronized across supported devices. Groups can support large communities, while channels provide a way for creators and organizations to publish content to their audiences. Bots and integrations can also extend the functionality of the platform for different use cases.\n\nOne of Telegram's notable characteristics is its cloud-based approach, which allows users to access their conversations and shared content from multiple devices. Its combination of messaging, communities, channels, file sharing, and customization features makes it useful for both casual communication and large online communities. The platform continues to be used by individuals, creators, organizations, and communities around the world.",
+    "size": 76,
+    "reviews": 19840,
+    "ratingAvg": 4.6,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 460 },
+      { "name": "2 star", "count": 690 },
+      { "name": "3 star", "count": 1710 },
+      { "name": "4 star", "count": 5420 },
+      { "name": "5 star", "count": 11560 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/canva.png",
+    "title": "Canva — Design & Create",
+    "companyName": "Canva Pty Ltd",
+    "id": 7,
+    "description": "Canva is a visual design platform that makes it easier for people to create professional-looking digital content without requiring advanced graphic design knowledge. Users can create social media posts, presentations, posters, videos, documents, thumbnails, advertisements, and many other types of visual content. Its template-based workflow allows users to start with ready-made designs and customize them according to their own requirements.\n\nThe platform provides tools for editing images, adding text, creating layouts, applying effects, and combining different visual elements. Users can also work with templates, graphics, illustrations, icons, photographs, and other design resources. This makes Canva useful for students, content creators, marketers, small businesses, educators, social media managers, and professionals who regularly need to create visual materials.\n\nCanva also makes collaboration easier by allowing teams and individuals to work on shared designs and organize their creative projects. Users can create consistent branding materials and reuse design elements across different projects. With its simple interface, large collection of templates, and wide range of creative tools, Canva provides an accessible way for users to produce attractive visual content quickly and efficiently.",
+    "size": 91,
+    "reviews": 16420,
+    "ratingAvg": 4.7,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 3840 },
+      { "name": "5 star", "count": 10960 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/zoom.png",
+    "title": "Zoom Workplace",
+    "companyName": "Zoom Communications",
+    "id": 8,
+    "description": "Zoom is a video communication platform that allows individuals, teams, schools, organizations, and businesses to communicate through online meetings and virtual events. Users can join video meetings, participate in conversations, share their screens, send messages through meeting chat, and collaborate with other participants from different locations. Its straightforward interface makes it relatively easy for users to join and organize virtual meetings.\n\nThe platform can be used for many different situations, including remote work, online classes, interviews, business meetings, team discussions, webinars, and virtual events. Meeting hosts can manage participants and use features such as screen sharing and other collaboration tools to make online sessions more interactive. Participants can join meetings from supported computers, smartphones, tablets, and other devices.\n\nZoom has become an important communication tool for organizations and individuals who need to connect without being physically present in the same location. Its combination of video communication, meeting tools, screen sharing, chat, and virtual event capabilities provides a flexible environment for remote collaboration. Whether used for education, business, teamwork, or personal communication, Zoom offers a convenient way to connect with people online.",
+    "size": 102,
+    "reviews": 13780,
+    "ratingAvg": 4.4,
+    "downloads": "950K",
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 810 },
+      { "name": "3 star", "count": 1680 },
+      { "name": "4 star", "count": 3890 },
+      { "name": "5 star", "count": 6780 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/whatsapp--v1.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 9,
+    "description": "WhatsApp is a widely used messaging and communication platform designed to help people stay connected through text messages, voice calls, video calls, and multimedia sharing. Users can communicate individually or participate in group conversations where they can exchange messages, photos, videos, documents, voice notes, and other content. The platform provides a simple interface that makes everyday communication accessible across different devices.\n\nWhatsApp also supports features that are useful for personal communication and communities. Users can share updates through status posts, create group conversations for families or teams, and communicate with contacts in different locations. Voice and video calling allow users to communicate more directly, while file sharing makes it possible to exchange important documents and media without relying on separate services.\n\nThe application is designed around convenience and regular communication. Messages and conversations can be accessed from supported devices, while users can organize their contacts and chats according to their personal needs. With its combination of messaging, calling, group communication, multimedia sharing, and simple user experience, WhatsApp remains a popular choice for everyday digital communication around the world.",
+    "size": 86,
+    "reviews": 17240,
+    "ratingAvg": 4.6,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 1320 },
+      { "name": "4 star", "count": 4860 },
+      { "name": "5 star", "count": 10060 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/github.png",
+    "title": "GitHub — Code & Collaboration",
+    "companyName": "GitHub Inc.",
+    "id": 10,
+    "description": "GitHub is a software development platform designed to help developers store, manage, review, and collaborate on source code. It provides repositories where individuals and teams can organize projects, track changes, manage versions, and work together on software development tasks. Developers can use GitHub for personal projects, open-source contributions, professional applications, and large software engineering workflows.\n\nThe platform provides important development features such as pull requests, issues, code reviews, branches, discussions, and project management tools. Developers can create separate branches for new features, review proposed changes, and merge completed work into the main project. This workflow helps teams maintain organized development processes while allowing multiple developers to contribute to the same codebase.\n\nGitHub also plays an important role in the open-source community. Developers can publish public repositories, contribute to projects created by others, report issues, and collaborate with people from different parts of the world. Its integration with development tools and automated workflows makes it useful for modern software teams. With version control, collaboration, documentation, and project management capabilities, GitHub provides a central environment for software development.",
+    "size": 64,
+    "reviews": 21960,
+    "ratingAvg": 4.9,
+    "downloads": "3.2M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 740 },
+      { "name": "4 star", "count": 4920 },
+      { "name": "5 star", "count": 15860 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/trello.png",
+    "title": "Trello — Project Management",
+    "companyName": "Trello LLC",
+    "id": 11,
+    "description": "Trello is a project management and organization platform that helps individuals and teams plan tasks, manage projects, and track progress using visual boards. Users can create boards for different projects and organize work into lists and cards. Each card can contain descriptions, checklists, deadlines, labels, attachments, and other information needed to complete a task.\n\nThe platform is useful for many different workflows, including software development, content planning, marketing campaigns, personal productivity, event planning, and team projects. Users can move cards between lists to represent different stages of work, such as planned, in progress, review, and completed. This visual approach makes it easier to understand project progress and identify tasks that still need attention.\n\nTrello also supports collaboration by allowing multiple team members to work on the same boards and update project information. Teams can assign tasks, add comments, attach files, and organize responsibilities without relying on complicated project management systems. Its simple visual structure makes it accessible to beginners while still providing useful features for professional teams. Trello provides a flexible way to organize work and maintain a clear overview of project progress.",
+    "size": 58,
+    "reviews": 11280,
+    "ratingAvg": 4.6,
+    "downloads": "780K",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 3160 },
+      { "name": "5 star", "count": 6670 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/google-drive--v2.png",
+    "title": "Google Drive — Cloud Storage",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Google Drive is a cloud storage and file management platform that allows users to store, organize, access, and share digital files through the internet. Users can keep documents, photographs, videos, presentations, spreadsheets, PDFs, and other types of files in an organized cloud-based environment. Files can be accessed from supported computers, smartphones, and tablets.\n\nOne of Google Drive's important features is its integration with other Google productivity services. Users can create and manage documents, spreadsheets, presentations, forms, and other content while keeping their work connected to their cloud storage. Sharing controls allow users to decide whether files can be viewed, commented on, or edited by other people.\n\nGoogle Drive is useful for students, professionals, businesses, teams, and individuals who need reliable access to their files from different locations. Collaboration features make it possible for multiple people to work on shared documents and projects without constantly sending separate file copies. The platform also provides search and organization tools that help users find important content more easily. With cloud storage, sharing, collaboration, and integration with productivity tools, Google Drive provides a convenient environment for managing digital information.",
+    "size": 74,
+    "reviews": 14140,
+    "ratingAvg": 4.7,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 2880 },
+      { "name": "5 star", "count": 10240 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/microsoft-teams.png",
+    "title": "Microsoft Teams — Work Together",
+    "companyName": "Microsoft Corporation",
+    "id": 13,
+    "description": "Microsoft Teams is a communication and collaboration platform designed for organizations, businesses, schools, and professional teams. It combines messaging, meetings, voice communication, file sharing, and collaborative workspaces in one environment. Teams can create dedicated spaces for departments, projects, classes, or other groups where members can communicate and share important information.\n\nUsers can participate in individual conversations, group chats, online meetings, and larger virtual sessions. The platform also provides tools for sharing documents and working with files while keeping project-related communication connected to the relevant team. Integration with Microsoft 365 services allows users to work with documents, spreadsheets, presentations, calendars, and other productivity tools from within connected workflows.\n\nMicrosoft Teams can be useful for remote and hybrid organizations that need to maintain communication between people working from different locations. Meetings can include features such as screen sharing, chat, and collaboration tools that make online discussions more interactive. Teams can also organize conversations by channels and topics, helping users find relevant information more easily. With communication, meetings, file collaboration, and productivity integrations, Microsoft Teams provides a centralized environment for modern workplace collaboration.",
+    "size": 98,
+    "reviews": 14080,
+    "ratingAvg": 4.5,
+    "downloads": "1.4M",
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 3420 },
+      { "name": "5 star", "count": 8980 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/discord-logo.png",
+    "title": "Discord — Chat & Communities",
+    "companyName": "Discord Inc.",
+    "id": 14,
+    "description": "Discord is a communication platform designed around communities, group conversations, voice communication, and online collaboration. Users can join or create servers where conversations are organized into different text and voice channels. These spaces can be used for gaming communities, software development groups, study communities, creative projects, entertainment, and many other interests.\n\nThe platform provides direct messaging, group conversations, voice channels, video communication, file sharing, and community management features. Server owners and administrators can create different channels and permissions to organize conversations and control access. This makes Discord useful for both small groups and larger communities that need structured communication spaces.\n\nDiscord also supports bots and integrations that can add additional functionality to communities. Members can receive notifications, share media, participate in voice discussions, and communicate in real time. Developers and community managers can customize servers according to the needs of their members. Its combination of text communication, voice channels, community organization, integrations, and real-time interaction makes Discord a flexible platform for online communities and social groups.",
+    "size": 82,
+    "reviews": 13940,
+    "ratingAvg": 4.6,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 540 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1450 },
+      { "name": "4 star", "count": 3820 },
+      { "name": "5 star", "count": 7410 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/dropbox.png",
+    "title": "Dropbox — Cloud Files",
+    "companyName": "Dropbox Inc.",
+    "id": 15,
+    "description": "Dropbox is a cloud storage and file synchronization platform designed to help individuals and teams store, organize, access, and share files across different devices. Users can upload documents, images, videos, presentations, and other files to their cloud storage and access them whenever needed. The platform is designed to keep important files synchronized between supported devices.\n\nDropbox provides sharing and collaboration features that allow users to send files or folders to other people and work together on shared content. Teams can organize their files into shared folders and maintain a central location for project documents. This can make it easier for team members to access the latest versions of files without manually sending copies through email or messaging applications.\n\nThe platform can be useful for professionals, students, creative teams, businesses, and individuals who regularly work with digital files. File synchronization helps users continue working across different computers and devices, while sharing tools make collaboration more convenient. Dropbox also provides organizational features that help users maintain a structured file library. With cloud storage, synchronization, sharing, and collaboration capabilities, Dropbox offers a practical environment for managing files and digital content.",
+    "size": 79,
+    "reviews": 15920,
+    "ratingAvg": 4.5,
+    "downloads": "1.1M",
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1180 },
+      { "name": "4 star", "count": 3460 },
+      { "name": "5 star", "count": 10450 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/grammarly.png",
+    "title": "Grammarly — Writing Assistant",
+    "companyName": "Grammarly Inc.",
+    "id": 16,
+    "description": "Grammarly is a digital writing assistant designed to help users improve the clarity, correctness, and overall quality of their written communication. It can be used while writing emails, documents, messages, articles, assignments, and other forms of text. The platform provides suggestions that can help users identify grammatical issues, spelling mistakes, punctuation problems, and other writing concerns.\n\nThe service can be useful for students, professionals, content creators, marketers, developers, and anyone who writes regularly in English. Depending on the available features, users can receive suggestions related to tone, clarity, word choice, sentence structure, and readability. These tools can help writers make their communication easier to understand and more polished.\n\nGrammarly is designed to work across different writing environments and can assist users while they create content online. Instead of manually checking every sentence, users can review suggested improvements and decide which changes are appropriate for their writing. This makes the platform useful for everyday communication as well as professional and academic work. With automated writing suggestions, grammar assistance, clarity improvements, and communication-focused features, Grammarly provides a convenient way to review and refine written content.",
+    "size": 63,
+    "reviews": 13200,
+    "ratingAvg": 4.6,
+    "downloads": "980K",
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 940 },
+      { "name": "4 star", "count": 3140 },
+      { "name": "5 star", "count": 8530 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/duolingo-logo.png",
+    "title": "Duolingo — Language Learning",
+    "companyName": "Duolingo Inc.",
+    "id": 17,
+    "description": "Duolingo is a language learning platform designed to help users practice new languages through short and interactive lessons. The platform covers vocabulary, pronunciation, reading, listening, and sentence-building activities through structured exercises. Its lesson-based approach makes it possible for users to practice regularly without requiring long study sessions.\n\nThe application uses interactive activities and progress features to encourage consistent learning habits. Users can complete lessons, review previously learned material, and continue through different stages of a language course. The platform is useful for beginners as well as learners who want to maintain regular practice alongside other study resources.\n\nDuolingo supports learning across multiple languages and provides a simple interface that can be used from supported smartphones and computers. Its short exercises can fit into daily routines, making it convenient for students, travelers, professionals, and people interested in learning languages as a personal skill. Users can gradually build vocabulary and become familiar with common sentence patterns through repeated practice. With interactive lessons, progress tracking, daily practice features, and a large selection of language courses, Duolingo provides an accessible environment for people who want to develop language learning habits.",
+    "size": 69,
+    "reviews": 13800,
+    "ratingAvg": 4.7,
+    "downloads": "1.3M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 680 },
+      { "name": "3 star", "count": 1320 },
+      { "name": "4 star", "count": 3460 },
+      { "name": "5 star", "count": 7820 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/youtube-play.png",
+    "title": "YouTube — Video & Streaming",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "YouTube is a video-sharing and streaming platform where users can watch, upload, discover, and interact with a wide variety of video content. The platform includes educational videos, music, entertainment, tutorials, documentaries, news, technology content, gaming videos, and many other categories. Users can search for specific topics or discover new content through recommendations and subscriptions.\n\nCreators can publish videos and build channels around their interests, knowledge, skills, or entertainment content. Viewers can subscribe to channels, create playlists, save videos, leave comments, and interact with creators. The platform also supports live streaming, allowing creators and organizations to communicate with audiences in real time.\n\nYouTube is used by students, teachers, developers, musicians, businesses, creators, and everyday viewers for many different purposes. Educational content makes it useful for self-learning, while entertainment and music provide opportunities for casual viewing. Creators can also use the platform to build audiences and share their work with people around the world. With its large content library, recommendation system, creator tools, subscriptions, playlists, and live streaming capabilities, YouTube provides a broad environment for online video consumption and publishing.",
+    "size": 110,
+    "reviews": 16320,
+    "ratingAvg": 4.8,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 460 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1580 },
+      { "name": "4 star", "count": 4420 },
+      { "name": "5 star", "count": 9240 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/linkedin.png",
+    "title": "LinkedIn — Professional Network",
+    "companyName": "LinkedIn Corporation",
+    "id": 19,
+    "description": "LinkedIn is a professional networking platform designed to help people connect with colleagues, companies, recruiters, professionals, and organizations. Users can create professional profiles that showcase their education, skills, work experience, projects, certifications, and other career-related information. The platform is commonly used for networking, job searching, recruitment, professional communication, and industry discussions.\n\nUsers can connect with professionals, follow companies, publish posts, share articles, and participate in discussions related to their careers or industries. Recruiters and organizations can use the platform to discover potential candidates, publish job opportunities, and communicate with professionals who match their requirements. This makes LinkedIn useful for both people searching for career opportunities and businesses looking for talent.\n\nThe platform also provides a space for professional learning and knowledge sharing. Users can follow industry experts, companies, and topics to discover relevant information and updates. Students and newcomers can build professional profiles and gradually develop networks before entering the job market. With professional profiles, networking tools, job opportunities, company pages, content publishing, and career-focused communication, LinkedIn provides a centralized environment for professional identity and networking.",
+    "size": 88,
+    "reviews": 15900,
+    "ratingAvg": 4.5,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 3650 },
+      { "name": "5 star", "count": 10900 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/96/airbnb.png",
+    "title": "Airbnb — Travel & Stays",
+    "companyName": "Airbnb Inc.",
+    "id": 20,
+    "description": "Airbnb is an online travel and accommodation platform designed to help people discover and book places to stay in different destinations. Users can explore apartments, houses, private rooms, unique properties, and other types of accommodation based on their travel plans. Listings can include photographs, descriptions, amenities, location information, availability, and pricing details to help travelers compare different options.\n\nThe platform provides search and filtering tools that allow users to narrow results according to location, dates, number of guests, property type, price range, and other preferences. Travelers can review available listings and choose accommodation that fits their needs. Hosts can create property listings, provide information about their spaces, manage availability, and communicate with guests.\n\nAirbnb can be useful for different types of travelers, including people planning vacations, business trips, family travel, longer stays, and experiences in new destinations. Reviews and listing information can help users make more informed decisions before booking. The platform connects travelers with hosts and provides a centralized environment for discovering and arranging accommodation. With property search, booking tools, host listings, reviews, filters, and travel-focused features, Airbnb provides a convenient way to explore accommodation options around the world.",
+    "size": 96,
+    "reviews": 13700,
+    "ratingAvg": 4.6,
+    "downloads": "1.0M",
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 3260 },
+      { "name": "5 star", "count": 8760 }
+    ]
+  }
+]
