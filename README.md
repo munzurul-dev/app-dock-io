@@ -35,7 +35,7 @@ https://appdock-io.netlify.app/
 npm install
 npm run dev
 
-##Author
+#Author
 
 Muhammad Munzurul
 
