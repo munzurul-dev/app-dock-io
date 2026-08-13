@@ -1,7 +1,15 @@
-import { useLoaderData } from "react-router";
+import { useLoaderData, useParams } from "react-router";
+import { setAppDataLSC } from "../../Utility/utility";
+import toast from "react-hot-toast";
 
 const AppDetails = () => {
   const app = useLoaderData();
+  const { id } =useParams();
+  const lctHandle = (id)=>{
+    setAppDataLSC(Number(id));
+    toast.success("App installed successfully!");
+  }
+  
 
   return (
     <div className="max-w-6xl mx-auto px-6 py-10">
@@ -29,31 +37,31 @@ const AppDetails = () => {
           <div className="flex flex-wrap gap-12">
             <div>
               <div className="text-green-500 text-3xl">↓</div>
-              <p className="text-gray-500 text-sm">Downloads</p>
-              <h2 className="text-3xl font-bold">{app.downloads}</h2>
+              <p className="text-black  text-sm">Downloads</p>
+              <h2 className="text-3xl text-black font-bold">{app.downloads}</h2>
             </div>
 
             <div>
               <div className="text-orange-500 text-3xl">★</div>
-              <p className="text-gray-500 text-sm">Average Ratings</p>
-              <h2 className="text-3xl font-bold">{app.ratingAvg}</h2>
+              <p className="text-black text-sm">Average Ratings</p>
+              <h2 className="text-3xl font-bold text-black" >{app.ratingAvg}</h2>
             </div>
 
             <div>
               <div className="text-purple-500 text-3xl">♧</div>
-              <p className="text-gray-500 text-sm">Total Reviews</p>
-              <h2 className="text-3xl font-bold">{app.reviews}</h2>
+              <p className="text-black text-sm">Total Reviews</p>
+              <h2 className="text-3xl font-bold text-black">{app.reviews}</h2>
             </div>
           </div>
 
-          <button className="mt-6 bg-green-500 hover:bg-green-600 text-white font-semibold px-5 py-3 rounded-lg">
+          <button onClick={()=>lctHandle(id)} className="mt-6 bg-green-500 hover:bg-green-600 text-white font-semibold px-5 py-3 rounded-lg">
             Install Now ({app.size})
           </button>
         </div>
       </div>
 
       <div className="border-t border-gray-300 mt-8 pt-8">
-  <h2 className="text-xl font-bold mb-5">Ratings</h2>
+  <h2 className="text-xl font-bold mb-5 text-black">Ratings</h2>
 
   <div className="space-y-4">
     {Object.entries(app.ratings).map(([star, count]) => {
@@ -80,7 +88,7 @@ const AppDetails = () => {
 </div>
 
       <div className="border-t border-gray-300 mt-8 pt-8">
-        <h2 className="text-xl font-bold mb-5">Description</h2>
+        <h2 className="text-xl text-black font-bold mb-5">Description</h2>
 
         <div className="space-y-6 text-gray-500 leading-7">
           {app.description}

@@ -1,3 +1,5 @@
+import toast from "react-hot-toast";
+
 const getAppDataFLS = () => {
   const appId = localStorage.getItem("App");
 
@@ -12,7 +14,7 @@ const setAppDataLSC = (id) => {
   const storedAppData = getAppDataFLS();
 
   if (storedAppData.includes(id)) {
-    alert("Already Exist");
+     toast.error("App Already Exist");
     return;
   }
 

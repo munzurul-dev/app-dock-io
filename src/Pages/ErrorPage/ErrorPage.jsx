@@ -1,14 +1,33 @@
-
+import { useNavigate } from "react-router";
+import errorImage from "../../assets/error-404.png";
 
 const ErrorPage = () => {
-    return (
-        <div role="alert" className="alert alert-warning">
-  <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 shrink-0 stroke-current" fill="none" viewBox="0 0 24 24">
-    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
-  </svg>
-  <span>Warning: Invalid email address!</span>
-</div>
-    );
+  const navigate = useNavigate();
+
+  return (
+    <div className="min-h-[70vh] flex flex-col items-center justify-center px-6 text-center">
+      <img
+        src={errorImage}
+        alt="404 Error"
+        className="w-full max-w-md"
+      />
+
+      <h1 className="text-4xl md:text-5xl font-bold text-[#0b1f38] mt-8">
+        Oops, page not found!
+      </h1>
+
+      <p className="text-gray-500 text-lg mt-3">
+        The page you are looking for is not available.
+      </p>
+
+      <button
+        onClick={() => navigate(-1)}
+        className="mt-6 bg-purple-600 hover:bg-purple-700 text-white font-semibold px-8 py-3 rounded-lg transition"
+      >
+        Go Back
+      </button>
+    </div>
+  );
 };
 
 export default ErrorPage;

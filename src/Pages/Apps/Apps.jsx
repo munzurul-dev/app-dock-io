@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useLoaderData } from "react-router";
 import AppCard from "../../Components/AppCard/AppCard";
+import AppNotFound from "../../Components/AppNotFound/AppNotFound";
 
 const Apps = () => {
   const appsData = useLoaderData();
@@ -22,8 +23,8 @@ const Apps = () => {
         </p>
       </div>
 
-      <div className="flex justify-between items-center px-8 mt-8">
-        <h3 className="font-bold text-black text-xl">
+      <div className="md:flex justify-between items-center px-8 mt-8">
+        <h3 className="font-bold text-black text-xl mb-2 md:mb-0">
           ({filteredApps.length}) Apps Found
         </h3>
 
@@ -42,14 +43,7 @@ const Apps = () => {
             <AppCard key={appData.id} appData={appData} />
           ))}
         </div>
-      ) : (
-        <div className="text-center py-20">
-          <h3 className="text-2xl font-bold">No Apps Found</h3>
-          <p className="text-gray-500 mt-2">
-            Try searching with a different name.
-          </p>
-        </div>
-      )}
+      ) : <AppNotFound></AppNotFound>}
     </div>
   );
 };
