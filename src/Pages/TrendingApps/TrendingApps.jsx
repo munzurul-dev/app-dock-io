@@ -13,7 +13,7 @@ const TrendingApps = ({trendingAppsData}) => {
       </p>
       <div className="grid grid-cols-1  lg:grid-cols-4 md:grid-cols-2 gap-4 md:p-8">
         {
-          trendingAppsData.map(tAppData => <TrendingAppCard tAppData={tAppData} key={tAppData.id}></TrendingAppCard>)
+          trendingAppsData.slice(0,8).map(tAppData => <TrendingAppCard tAppData={tAppData} key={tAppData.id}></TrendingAppCard>)
         }
       </div>
       <div className="flex justify-center mt-2 md:-mt-2 ">
